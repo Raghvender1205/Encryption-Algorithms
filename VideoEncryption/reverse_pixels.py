@@ -1,5 +1,4 @@
 import json
-from re import L
 
 def load_hilbert():
     with open('pixels.json') as f:
